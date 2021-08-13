@@ -1,4 +1,4 @@
-**Exámen para Wirall**
+**Pequeña app abm modificación de usuarios a modo de testing**
 
 Para iniciar el proyecto únicamente es necesario instalar los paquetes que se encuentran en requirements.txt y utilizar 
 la versión 3.7 de python.
@@ -9,7 +9,6 @@ Una vez teniendo el proyecto en marcha se puede ingresar a las siguientes URL pa
 2. Crear personas: 127.0.0.1:8000/personas/abm_personas
 3. Crear Tarjetas: 127.0.0.1:8000/tarjetas/abm_tarjetas
 
-**Requisitos del exámen**
 
 1. Tarjetas:
 Dentro de la app tarjetas se encuentra el modelo Tarjetas. En el se encuentra la lógica para obtener
